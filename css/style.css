@@ -472,6 +472,9 @@ body.lock {
           justify-content: center;
   width: 27.212%;
   height: 51.18%;
+  -webkit-transition: all 0.8s ease 0s;
+  -o-transition: all 0.8s ease 0s;
+  transition: all 0.8s ease 0s;
 }
 
 .circle__text {
