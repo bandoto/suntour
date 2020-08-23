@@ -412,7 +412,7 @@ body.lock {
 /*HOTEL===========================================================================================*/
 
 .hotel {
-  padding: 128px 0 0 0;
+  padding: 119px 0 0 0;
   -webkit-transition: all 0.8s ease 0s;
   -o-transition: all 0.8s ease 0s;
   transition: all 0.8s ease 0s;
@@ -654,7 +654,7 @@ body.lock {
   }
 
   .hotel {
-    padding: 92px 0 0 0;
+    padding: 85px 0 0 0;
   }
 
   .circle__name {
@@ -742,5 +742,9 @@ body.lock {
     font-size: 17px;
     line-height: 17px;
     text-decoration: underline;
+  }
+
+  .hotel {
+    padding: 92px 0 0 0;
   }
 }
