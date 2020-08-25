@@ -1061,6 +1061,11 @@ body.lock {
   .point-hotel__points_b {
     margin: 0 10px 0 0;
   }
+
+  .text__block h1 {
+    font-size: 36px;
+    line-height: 40px;
+  }
 }
 
 @media (max-width: 500px) {
