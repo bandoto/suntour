@@ -894,6 +894,7 @@ body.lock {
 }
 
 .right-text {
+  max-width: 227px;
   position: relative;
   bottom: 55px;
   margin: 0 0 10px 40px;
